@@ -1,0 +1,32 @@
+body{
+    background-color: skyblue;
+}
+
+#news{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(250, 82, 82);
+}
+h1{
+    text-align: center;
+}
+#newsBtn
+{
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.article{
+    background-color: whitesmoke;
+    width:80%;
+    margin:10px;
+    border-radius: 20px;
+    padding: 10px;
+}
